@@ -7,4 +7,4 @@ Some more content
 
 more changes.
 
-end of chanes.
+end of changes.
